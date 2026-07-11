@@ -11,4 +11,4 @@ This repository was created as a requirement for the course *CPE 031 - Visualiza
 ## Contents
 - README.md
 ## About me 
-- During my free time i often play basketball because it is my sport since pandemic.
+- During my free time i often play basketball because it is my favorite sport since pandemic.

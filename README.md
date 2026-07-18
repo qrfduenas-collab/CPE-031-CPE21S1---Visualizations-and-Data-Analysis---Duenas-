@@ -1,4 +1,4 @@
-<img src="barney.png" width="100%">
+<img src="VDA.png" width="100%">
 # CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Duenas
 
 ## Student Information
